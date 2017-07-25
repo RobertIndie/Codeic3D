@@ -1,0 +1,9 @@
+{
+    "extensionName": "Codeic3D",
+    "extensionPort": 8001,
+    "host": "localhost",
+    "useHTTP": true,
+    "blockSpecs":[
+		[" ","在X= %n Y= %n Z= %n 的地方生成一个物体","CreateObject"]
+    ]
+}
